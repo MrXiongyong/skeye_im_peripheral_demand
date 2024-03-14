@@ -1,0 +1,6 @@
+[template]
+src = "log4j2.properties.tmpl"
+dest = "/home/microservices/config/log4j2.xml"
+keys = [
+    "/"
+]
